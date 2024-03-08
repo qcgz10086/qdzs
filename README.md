@@ -7,8 +7,8 @@ Copy code
 ## 安装
 
 ```bash
-npm install your-package-name
-使用
+npm install qcgzdasde
+## 使用
 javascript
 Copy code
 const { celsiusToFahrenheit, fahrenheitToCelsius } = require('your-package-name');
